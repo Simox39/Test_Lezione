@@ -14,7 +14,7 @@ namespace AppLezione1
             Console.WriteLine($"il valore di a è {a}");
             short s = (short)a;
             Console.WriteLine($"il valore di s è {s}");
-
+            Console.ReadLine();
         }
     }
 }
